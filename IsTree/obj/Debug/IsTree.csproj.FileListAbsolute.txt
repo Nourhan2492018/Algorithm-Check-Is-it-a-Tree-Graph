@@ -1,0 +1,6 @@
+C:\Users\Norhan\Desktop\3rd Year Bio\Algorithms\[CHP]Task\[2]Is it a Tree (V2)\Is it a Tree\IsTree\obj\Debug\IsTree.csprojAssemblyReference.cache
+C:\Users\Norhan\Desktop\3rd Year Bio\Algorithms\[CHP]Task\[2]Is it a Tree (V2)\Is it a Tree\IsTree\obj\Debug\IsTree.csproj.CoreCompileInputs.cache
+C:\Users\Norhan\Desktop\3rd Year Bio\Algorithms\[CHP]Task\[2]Is it a Tree (V2)\Is it a Tree\IsTree\bin\Debug\IsTree.exe
+C:\Users\Norhan\Desktop\3rd Year Bio\Algorithms\[CHP]Task\[2]Is it a Tree (V2)\Is it a Tree\IsTree\bin\Debug\IsTree.pdb
+C:\Users\Norhan\Desktop\3rd Year Bio\Algorithms\[CHP]Task\[2]Is it a Tree (V2)\Is it a Tree\IsTree\obj\Debug\IsTree.exe
+C:\Users\Norhan\Desktop\3rd Year Bio\Algorithms\[CHP]Task\[2]Is it a Tree (V2)\Is it a Tree\IsTree\obj\Debug\IsTree.pdb
